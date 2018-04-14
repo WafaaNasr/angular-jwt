@@ -1,0 +1,11 @@
+D:\Projects\Angular-JWT\JWT Example\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.csprojResolveAssemblyReference.cache
+D:\Projects\Angular-JWT\JWT Example\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.csproj.CoreCompileInputs.cache
+D:\Projects\Angular-JWT\JWT Example\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.AssemblyInfoInputs.cache
+D:\Projects\Angular-JWT\JWT Example\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.AssemblyInfo.cs
+D:\Projects\Angular-JWT\JWT Example\ptcApi\bin\Debug\netcoreapp2.0\PtcApi.deps.json
+D:\Projects\Angular-JWT\JWT Example\ptcApi\bin\Debug\netcoreapp2.0\PtcApi.runtimeconfig.json
+D:\Projects\Angular-JWT\JWT Example\ptcApi\bin\Debug\netcoreapp2.0\PtcApi.runtimeconfig.dev.json
+D:\Projects\Angular-JWT\JWT Example\ptcApi\bin\Debug\netcoreapp2.0\PtcApi.dll
+D:\Projects\Angular-JWT\JWT Example\ptcApi\bin\Debug\netcoreapp2.0\PtcApi.pdb
+D:\Projects\Angular-JWT\JWT Example\ptcApi\obj\Debug\netcoreapp2.0\PtcApi.dll
+D:\Projects\Angular-JWT\JWT Example\ptcApi\obj\Debug\netcoreapp2.0\PtcApi.pdb
