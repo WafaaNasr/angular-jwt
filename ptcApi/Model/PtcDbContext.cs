@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using ptcApi.Model;
 
 namespace PtcApi.Model
 {
@@ -6,6 +7,8 @@ namespace PtcApi.Model
   {
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
+    public DbSet<AppUser> Users { get; set; }
+    public DbSet<AppUserClaim> UserClaims { get; set; }
 
     // private const string CONN =
     //               @"Server=Localhost;
